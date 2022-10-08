@@ -1,0 +1,14 @@
+{
+  "name": "go",
+  "version": "1.0.0",
+  "description": "o mai god",
+  "main": "go2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "go2"
+  ],
+  "author": "Cupcake",
+  "license": "ISC"
+}

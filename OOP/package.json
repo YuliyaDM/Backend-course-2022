@@ -1,0 +1,23 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "description": "\"shpp nodejs-backend level 1 task 4\"",
+  "main": "oop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"SHPP",
+    "backend",
+    "backendTask",
+    "nodejs",
+    "NODEJS",
+    "typescript\""
+  ],
+  "author": "hehehe",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "test"
+  }
+}
